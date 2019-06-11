@@ -8,5 +8,5 @@ Principles of Financial Computing
 	| gcc hw1.c -o hw1 |
 	| ./hw1            |
 	--------------------
-	Enter S(spot price), K(strile price), s(volatility), T(years), n(number of periods) in order.
-	Then, it will output the put price and delta.
+Enter S(spot price), K(strile price), s(volatility), T(years), n(number of periods) in order.
+Then, it will output the put price and delta.
