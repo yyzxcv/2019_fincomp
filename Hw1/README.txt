@@ -1,8 +1,3 @@
-# Principles of Financial Computing 
-  - HW1
-  - Student ID: B05902006
-  - Name: 蕭縈瀅
-
 # Programming Language
   gcc 4.2.1
 
